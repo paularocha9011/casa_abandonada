@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Warehouse
+* source:	https://sketchfab.com/3d-models/small-warehouse-c7f4c017c20943cb9e9e559822a5c402
+* author:	Pinos (https://sketchfab.com/PauloWardson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Warehouse" (https://sketchfab.com/3d-models/small-warehouse-c7f4c017c20943cb9e9e559822a5c402) by Pinos (https://sketchfab.com/PauloWardson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
